@@ -11,3 +11,5 @@ Download: https://github.com/KrystianMistewicz/Vectors_in_3D/releases/tag/v1.0
 <img width="2558" height="1384" alt="obraz" src="https://github.com/user-attachments/assets/9a2dd88f-8b75-44aa-be71-5e51ae1cd900" />
 
 <img width="2556" height="1384" alt="obraz" src="https://github.com/user-attachments/assets/4aabb32e-d1b4-475f-9309-a08bbbe5eacd" />
+
+<img width="2557" height="1385" alt="obraz" src="https://github.com/user-attachments/assets/b4ca6e4b-7ba8-4003-9b04-1ca9e2d66d10" />
